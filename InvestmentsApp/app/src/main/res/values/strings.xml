@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InvestmentsApp</string>
+        <string name="hint_username">Enter Username</string>
+        <string name="hint_password">Enter Password</string>
+        <string name="btn_login">Login</string>
+    <string name="investment_list_desc">List of investment assets</string>
+    <string name="login_success_keypass">Login success! Keypass: %1$s</string>
+    <string name="login_failed">Login failed: Invalid credentials</string>
+    <string name="login_error">Error: %1$s</string>
+
+</resources>
